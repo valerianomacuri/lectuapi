@@ -1,6 +1,10 @@
 # lectuapi
 
-![lectuapi](lectulandia.png)
+<p align="center">
+  <a>
+    <img src="lectulandia.png" height="70px">
+  </a>
+</p>
 
 ## Host:
 
@@ -59,9 +63,9 @@ Obten un libro por su `slug`.
 
 ### Buscar
 
-Busca un libro
+Busca un libros por título, descripción y autor.
 
-**GET** https://lectuapi.herokuapp.com/search/inteligencia
+**GET** https://lectuapi.herokuapp.com/search/maze-runner
 
 ```json
 [
