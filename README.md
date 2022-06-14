@@ -6,9 +6,9 @@
   </a>
 </p>
 
-## Host:
+## Host
 
-https://lectuapi.herokuapp.com
+- https://lectuapi.herokuapp.com
 
 ## Endpoints
 
@@ -107,3 +107,7 @@ Busca un libros por título, descripción y autor.
   }
 ]
 ```
+
+## Help us
+
+[<img src="https://camo.githubusercontent.com/2e6f39f21c4d34ba1a4b01c34d27bb7e9dabb7d5c01fc8a4a2f1a571c36f4d5e/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e673f773d33383426713d3735" width="200">](https://www.buymeacoffee.com/golowdb)
