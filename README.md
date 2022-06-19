@@ -71,7 +71,7 @@ Obten un libro por su `slug`.
 
 Obten los libros por el `slug` del género.
 
-**GET** https://lectuapi.herokuapp.com/genre/terror
+**GET** https://lectuapi.herokuapp.com/genre/terror?limit=10&page=1
 
 ### Autor
 
